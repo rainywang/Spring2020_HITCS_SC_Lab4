@@ -31,7 +31,7 @@ import java.util.TreeMap;
  * EventManager.book(1, 10, 20); 	// returns 1
  * EventManager.book(1, 1, 7); 		// returns 1
  * EventManager.book(1, 10, 22); 	// returns 2
- * EventManager.book(1, 5,15); 		// returns 3
+ * EventManager.book(1, 5, 15); 	// returns 3
  * EventManager.book(1, 5, 12); 	// returns 4
  * EventManager.book(1, 7, 10); 	// returns 4
  * 
